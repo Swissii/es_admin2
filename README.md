@@ -1,2 +1,15 @@
-# es_admin2
-I'm not the Owner of this Mod
+[INSTALLATION]
+
+1). CD in your resources/[esx] folder
+
+or
+
+2). Clone the repository
+```
+https://github.com/Swissii/es_admin2.git
+```
+
+3). Add this in your server.cfg :
+```
+start es_admin2
+```
