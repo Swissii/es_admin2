@@ -6,7 +6,7 @@ or
 
 2). Clone the repository
 ```
-https://github.com/Swissii/es_admin2.git
+git clone https://github.com/Swissii/es_admin2.git
 ```
 
 3). Add this in your server.cfg :
